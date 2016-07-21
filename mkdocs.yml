@@ -10,8 +10,8 @@ pages:
       - Closing Ceremony: 'event/closing-ceremony.md'
       - Tech Talks: 'event/tech-talks.md'
   - Judges:
-      - Judging Panel Info: 'judging-panel.md'
-      - Custom/Sponsor Prize Judging: 'sponsor-prizes.md'
+      - Judging Panel Info: 'judges/judging-panel.md'
+      - Custom/Sponsor Prize Judging: 'judges/sponsor-prizes.md'
   - Safety:
       - Code of Conduct: 'safety/code-of-conduct.md'
       - Emergency Contacts: 'safety/emergency.md'
