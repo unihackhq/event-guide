@@ -15,12 +15,20 @@ In addition, judges will have access to all the teams one hour before the public
 the teams' prototypes on Sunday. Given the number of teams, we expect that judges should see
 at least half of the teams before the doors open to the general public.
 
+## Prizes to be decided by Judging Panel
+
+The Judging Panel will decide the following prizes:
+
+- Major Prize (first, second and third)
+- Best Design
+- Most Creative Idea
+
 ## Schedule
 
 Judges should aim to arrive at the [venue](../event/venue.md) at 1:00pm on Sunday July 30.
 
 Time   | Event
---------------------
+------ | -----------
 1:15pm | Judges Briefing
 1:30pm | Presentation Day: judges only
 2:30pm | Presentation Day: judges + general public
