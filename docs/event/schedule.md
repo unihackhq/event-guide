@@ -8,11 +8,11 @@ Time    | Event
 9:00am  | Doors open for registration<br />Careers Fair
 11:00am | [Opening Ceremony](opening-ceremony.md)<br />API Talks
 12:00pm | **HACKING BEGINS**
-12:30pm | Tech Talk: Bosch
-1:00pm  | Tech Talk: IMC
+12:30pm | [Tech Talk: Bosch](tech-talk.md#bosch)
+1:00pm  | [Tech Talk: IMC](tech-talk.md#imc)
 1:30pm  | Lunch
-2:30pm  | Tech Talk: Thoughtworks
-3:30pm  | Tech Talk: REA Group
+2:30pm  | [Tech Talk: Thoughtworks](tech-talk.md#thoughtworks)
+3:30pm  | [Tech Talk: REA Group](tech-talk.md#rea)
 7:30pm  | Dinner
 10:00pm | Doors locked
 

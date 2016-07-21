@@ -16,4 +16,4 @@ Judges for all custom prizes will have access to the Judges Only portion of
 Presentation Day, from 1:30pm on Sunday.
 
 Before the event, we will give a list of teams that have met the criteria - as
-set out by the company.
+set out by the company. 

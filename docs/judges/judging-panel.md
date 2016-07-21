@@ -1,19 +1,20 @@
+In order to decide the winner of the hackathon, UNIHACK has asked seven
+well-respected members of the industry to judge all entries.
 
-In order to decide the winner of the hackathon, UNIHACK has asked seven well-respected
-members of the industry to judge all entries.
+Unlike most hackathons in Australia, UNIHACK adopts a 'science fair' format
+instead of a pitch presentation. This allows all judges to have a hands-on
+demonstration of a team's prototype. It also gives a judge more time to ask
+questions.
 
-Unlike most hackathons in Australia, UNIHACK adopts a 'science fair' format instead
-of a pitch presentation. This allows all judges to have a hands-on demonstration of a
-team's prototype. It also gives a judge more time to ask questions.
+This year, we are enforcing a time limit. Judges will have four minutes with
+each team. This is to ensure that the judges will see all the teams *and* have
+enough time to make a decision. Each judge will have a timekeeper that will
+ensure judges keep to the time limit.
 
-This year, we are enforcing a time limit. Judges will have four minutes with each team.
-This is to ensure that the judges will see all the teams *and* have enough time to
-make a decision. Each judge will have a timekeeper that will ensure judges keep to the
-time limit.
-
-In addition, judges will have access to all the teams one hour before the public see
-the teams' prototypes on Sunday. Given the number of teams, we expect that judges should see
-at least half of the teams before the doors open to the general public.
+In addition, judges will have access to all the teams one hour before the public
+see the teams' prototypes on Sunday. Given the number of teams, we expect that
+judges should see at least half of the teams before the doors open to the
+general public.
 
 ## Prizes to be decided by Judging Panel
 
@@ -25,7 +26,8 @@ The Judging Panel will decide the following prizes:
 
 ## Schedule
 
-Judges should aim to arrive at the [venue](../event/venue.md) at 1:00pm on Sunday July 30.
+Judges should aim to arrive at the [venue](../event/venue.md) at 1:00pm on
+Sunday July 30.
 
 Time   | Event
 ------ | -----------
