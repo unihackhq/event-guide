@@ -1,4 +1,3 @@
-# Schedule
 
 ## Saturday July 30
 
@@ -27,6 +26,6 @@ Time    | Event
 12:00pm | **HACKING STOPS**<br />Lunch
 1:30pm  | Presentation Day: Judges only
 2:30pm  | Presentation Day: Public enter
-4:30pm  | End of Presentation Day <br /> Break
+4:30pm  | End of Presentation Day <br /> Break for participants and mentors
 5:00pm  | [Closing Ceremony](closing-ceremony.md)<br />Winners Announcement
 6:00pm  | Goodbye<br />Cleanup

@@ -1,2 +1,18 @@
 site_name: UNIHACK Event Guide
+pages:
+  - Home:
+      - Index: 'index.md'
+      - CHANGELOG: 'changelog.md'
+  - Event:
+      - Mixer Night: 'event/mixer-night.md'
+      - Schedule: 'event/schedule.md'
+      - Opening Ceremony: 'event/opening-ceremony.md'
+      - Closing Ceremony: 'event/closing-ceremony.md'
+      - Tech Talks: 'event/tech-talks.md'
+  - Judges:
+      - Judging Panel Info: 'judging-panel.md'
+      - Custom/Sponsor Prize Judging: 'sponsor-prizes.md'
+  - Safety:
+      - Code of Conduct: 'safety/code-of-conduct.md'
+      - Emergency Contacts: 'safety/emergency.md'
 theme: readthedocs

@@ -1,5 +1,3 @@
-# Opening Ceremony
-
 ## Rundown
 
 Time    | Event

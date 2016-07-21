@@ -1,10 +1,15 @@
-# Tech Talks
 
-We have organised a number of tech talks across the [Mixer Night](../mixer-night.md) on July 26 and the [main event](schedule.md) on July 30-31.
+A number of companies have offered to present a tech talk at this year's event. These talks have been spread out between the [Mixer Night](../mixer-night.md) on July 26 and the [main event](schedule.md) on Saturday July 30.
 
 These are 30 minute talks presented by some of our sponsors that are designed to help you with the competition, gain knowledge and/or refresh existing skills. Previous topics included "Introduction to UX Design", "Being a Great Software Engineer in the Real World", and "How to win UNIHACK".
 
-We ask teams to send at least *one* representative to each tech talk. The full list of Tech Talks will be made available closer to the start of the event.
+## Notes about Tech Talks
+
+Please be aware that the organisers will keep to the 30 minute time limit to all talks. This is to ensure both Mixer Night and the main event remains on schedule.
+
+You will be given a two minute warning that your time is nearly up by the MC of your talk - either by standing at the corner of the stage, or by making a hand gesture when in front.
+
+We ask all speakers to send a copy of their presentations 24 hours before their scheduled talk. This will allow us to have a backup or - for Mixer Night - have one presentation on the night instead of having to swap between different presentations.
 
 ## Talks at Mixer Night
 

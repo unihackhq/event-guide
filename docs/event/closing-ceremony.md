@@ -1,5 +1,3 @@
-# Closing Ceremony
-
 ## Rundown
 
 Time    | Event
