@@ -11,6 +11,9 @@ each team. This is to ensure that the judges will see all the teams *and* have
 enough time to make a decision. Each judge will have a timekeeper that will
 ensure judges keep to the time limit.
 
+We have asked teams to ensure their pitch is within two minutes, giving you two
+minutes of questions.
+
 In addition, judges will have access to all the teams one hour before the public
 see the teams' prototypes on Sunday. Given the number of teams, we expect that
 judges should see at least half of the teams before the doors open to the
@@ -23,6 +26,14 @@ The Judging Panel will decide the following prizes:
 - Major Prize (first, second and third)
 - Best Design
 - Most Creative Idea
+
+Judges will be placed in a room to determine who will be first, second and third.
+The decision does not need to be unanimous. All teams will also have a submission
+on our [DevPost](http://unihack2016.devpost.com) which will be available to all
+judges.
+
+The Best Design and Most Creative Idea prizes will be simply determined by whoever
+receives the most points in *Polish and Design* and *Originality* respectively.
 
 ## Schedule
 

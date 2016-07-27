@@ -1,3 +1,10 @@
+## Version 1.0.2 (July 28, 2016)
+
+- Fix image and link errors
+- Updated schedule
+- Updated judging information
+- Added mentor and recruiter information
+
 ## Version 1.0.1 (July 21, 2016)
 
 - Updated Opening Ceremony Schedule

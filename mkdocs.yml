@@ -4,11 +4,15 @@ pages:
       - Index: 'index.md'
       - CHANGELOG: 'changelog.md'
   - Event:
-      - Mixer Night: 'event/mixer-night.md'
+      - Venue: 'event/venue.md'
       - Schedule: 'event/schedule.md'
       - Opening Ceremony: 'event/opening-ceremony.md'
       - Closing Ceremony: 'event/closing-ceremony.md'
+      - Mixer Night: 'event/mixer-night.md'
       - Tech Talks: 'event/tech-talks.md'
+  - Mentors and Recruiters:
+      - Information: 'mentor/information.md'
+      - Mentor Guide: 'mentor/guide.md'
   - Judges:
       - Judging Panel Info: 'judges/judging-panel.md'
       - Custom/Sponsor Prize Judging: 'judges/sponsor-prizes.md'
