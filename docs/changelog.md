@@ -1,3 +1,7 @@
+## Version 1.0.3 (July 28, 2016)
+
+- Updated Bosch talk description
+
 ## Version 1.0.2 (July 28, 2016)
 
 - Fix image and link errors
